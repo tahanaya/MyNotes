@@ -81,7 +81,7 @@ androidx.core:core:1.12.0
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/VOTRE-USERNAME/MyNotes.git
+git clone https://github.com/tahanaya/MyNotes.git
 ```
 
 2. **Ouvrir dans Android Studio**
